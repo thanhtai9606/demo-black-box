@@ -1,0 +1,9 @@
+venv/*
+data/*
+models/*
+auto-attack/*
+
+venv
+data
+models
+auto-attack
